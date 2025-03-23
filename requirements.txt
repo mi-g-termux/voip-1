@@ -1,4 +1,3 @@
-flask
-pyrogram
-tgcrypto
+python-dotenv
+pyTelegramBotAPI
 requests
